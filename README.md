@@ -25,13 +25,16 @@
 
 ## 🚀 Easy to Get Started
 
-Integrating PureFlowCSS into your project is quick and easy. Simply include the CSS file, and you're good to go. You can download the library from the website or include it via a CDN.
+Integrating PureFlowCSS into your project is quick and easy. Simply include the CSS and JavaScript files, and you're good to go. You can download the library from the website or include it via a CDN.
 
 ### Example:
 
 ```html
 <link rel="stylesheet" href="https://pureflowcss.com/pureflowcss.min.css">
+<script src="https://pureflowcss.com/pureflowcss.min.js"></script>
 ```
+
+**Note:** For interactive elements such as sliders, navigation bars, and various dynamic components, you will need to include the JavaScript file `pureflowcss.min.js` in your project.
 
 ---
 
@@ -53,7 +56,7 @@ As an open-source project, PureFlowCSS welcomes contributions from the community
 
 ---
 
-## 📝   License
+## 📝 License
 
 PureFlowCSS is released under the MIT License. Feel free to use it for personal, commercial, or open-source projects.
 
