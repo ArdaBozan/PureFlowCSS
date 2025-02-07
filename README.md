@@ -58,7 +58,7 @@ As an open-source project, PureFlowCSS welcomes contributions from the community
 
 ## 📝 License
 
-PureFlowCSS is released under the MIT License. Feel free to use it for personal, commercial, or open-source projects.
+PureFlowCSS is released under the [MIT License](https://github.com/ArdaBozan/PureFlowCSS/blob/main/LICENSE). Feel free to use it for personal, commercial, or open-source projects.
 
 ---
 
