@@ -31,7 +31,7 @@ Integrating PureFlowCSS into your project is quick and easy. Simply include the 
 
 ```html
 <link rel="stylesheet" href="https://pureflowcss.com/pureflowcss.min.css">
-<script src="https://pureflowcss.com/pureflowcss.min.js"></script>
+<script defer src="https://pureflowcss.com/pureflowcss.min.js"></script>
 ```
 
 **Note:** For interactive elements such as sliders, navigation bars, and various dynamic components, you will need to include the JavaScript file `pureflowcss.min.js` in your project.
