@@ -29,7 +29,7 @@
 
 Integrating PureFlowCSS into your project is quick and easy. Simply include the CSS and JavaScript files, and you're good to go. You can download the library from the website or include it via a CDN.
 
-### Example:
+### 📍 How to include:
 
 ```html
 <link rel="stylesheet" href="https://pureflowcss.com/pureflowcss.min.css">
@@ -64,7 +64,7 @@ PureFlowCSS is released under the [MIT License](https://github.com/ArdaBozan/Pur
 
 ---
 
-## Why Choose PureFlowCSS?
+## 🤷‍♂️ Why Choose PureFlowCSS?
 
 - 🚀 **Lightweight and fast**
 - 🎨 **Highly customizable**
